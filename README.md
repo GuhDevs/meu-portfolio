@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/GuhDevs?style=social)](https://github.com/GuhDevs)
 [![Gmail](https://img.shields.io/badge/-gu.devllo@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gu.devllo@gmail.com)
-[![Instagram](https://img.shields.io/badge/-@GuhDevs-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guhtrinca/)
+[![Instagram](https://img.shields.io/badge/-@GustavoTrinca-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guhtrinca/)
 
 &gt; 🚀 Desenvolvedor Full Stack Júnior | Técnico em Desenvolvimento de Sistemas
 
@@ -69,7 +69,7 @@ Sempre fui apaixonado por tecnologia e descobri que programação é onde eu pos
 Quer conversar sobre um projeto ou oportunidade?
 
 - 📧 **Email:** [gu.devllo@gmail.com](mailto:gu.devllo@gmail.com)
-- 📷 **Instagram:** [@Gustavo Trinca](https://www.instagram.com/guhtrinca/)
+- 📷 **Instagram:** [@guhtrinca](https://www.instagram.com/guhtrinca/)
 - 💻 **GitHub:** [@GuhDevs](https://github.com/GuhDevs)
 
 ---
