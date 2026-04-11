@@ -69,7 +69,7 @@ Sempre fui apaixonado por tecnologia e descobri que programação é onde eu pos
 Quer conversar sobre um projeto ou oportunidade?
 
 - 📧 **Email:** [gu.devllo@gmail.com](mailto:gu.devllo@gmail.com)
-- 📷 **Instagram:** [@GuhDevs](https://instagram.com/GuhDevs)
+- 📷 **Instagram:** [@GuhDevs](https://www.instagram.com/gu_devlloper/)
 - 💻 **GitHub:** [@GuhDevs](https://github.com/GuhDevs)
 
 ---
